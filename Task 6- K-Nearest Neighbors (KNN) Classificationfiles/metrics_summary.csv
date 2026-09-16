@@ -1,0 +1,4 @@
+Metric,Value
+Best K,15.0
+Test Accuracy (4 features),0.9666666666666667
+"Test Accuracy (2 features, for viz)",0.9333333333333333
